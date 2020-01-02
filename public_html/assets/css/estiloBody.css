@@ -24,5 +24,12 @@ h2{
   color: #122b40;
   font-weight: bolder;
 }
+p{
+    text-align:justify;
+    /*border:1px solid red;*/
+    color: #fff;
+    font-size: 18px;
+    margin-top: 10px;
+}
 
 
